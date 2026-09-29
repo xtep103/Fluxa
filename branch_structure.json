@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/328-scheduled-recurring-tenant-payouts",
+    "feat/334-retry-failed-settlements",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/328-scheduled-recurring-tenant-payouts": "main",
+    "feat/334-retry-failed-settlements": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/328-scheduled-recurring-tenant-payouts",
+    "feat/334-retry-failed-settlements",
+    "origin"
+  ]
+}
